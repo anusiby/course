@@ -3,7 +3,7 @@ const csv = require('csv-parser');
 
 const usernames = [];
 
-const loginApiUrl = 'https://api.techenablesme.com/calman/api/login'; 
+const loginApiUrl = 'https://api.techenablesme.com/calman/api/login';
 
 // Function to process the CSV file
 function processCsvFile(filePath) {
